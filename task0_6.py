@@ -7,5 +7,5 @@ def get_max_number(num1, num2, num3):
         return num3
 
 
-max_number = get_max_number(5, 88, 155)
+max_number = get_max_number(-5,-88, -155)
 print(max_number)
